@@ -6,5 +6,7 @@ pizza
 pasta
 chicken fry
 
+beans
+rice 
 
 thank u!
